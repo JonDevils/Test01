@@ -9,4 +9,4 @@ public enum Rim {
       return value;
    }
    }
-
+//Не знаю как дальше делать.
