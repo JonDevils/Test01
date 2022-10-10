@@ -8,9 +8,7 @@ import java.util.Scanner;
      static void main(String[] args) {
         //while(true) {
 
-        int a = 4;
-        int b = 4;
-         //System.out.println(Rim.equals(a));
+       
 
 
 
